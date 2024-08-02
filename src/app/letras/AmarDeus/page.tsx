@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function emJesus() {
+export default function AmarDeus() {
   return (
     <main>
       <div className="relative z-[-1] pt-64 -mb-64 sticky top-0 content-center object-contain fixed before:absolute before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-72 after:w-72 after:translate-x-1/3 after:bg-gradient-conic after:from-green-200 after:via-green-600 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-green-400 before:dark:opacity-10 after:dark:from-green-700 after:dark:via-[#88B25F] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]"></div>
@@ -47,70 +47,38 @@ export default function emJesus() {
         <div className="flex min-h-screen flex-col items-center pb-40 pt-28 lg:py-40 overflow-hidden">
           <div className="text-center flex place-items-center">
             <p>
-              Só em Jesus posso esperar <br />
-              É minha força é minha luz <br />
-              Ele é a pedra angular <br />
-              Que nada pode abalar <br /><br />
+            De onde o vento vem <br />
+            Vai soprar para o norte ou sul <br />
+            Aonde vai ? <br /><br />
 
-              Que imenso amor profunda paz <br />
-              Quando a batalha terminar <br />
-              Jesus é tudo para mim<br />
-              Dá-me abrigo até o fim.<br /><br />
+            De onde o vento vem <br />
+            Vai soprar para o norte ou sul <br />
+            Aonde vai ? <br /><br />
 
-              Em carne o Verbo se tornou<br />
-              Deus encarnado num bebê <br />
-              É dom de amor e retidão <br />
-              Salvou a quem o desprezou<br /><br />
+            O rio corre para o mar <br />
+            Mas o mar jamais se encheu <br />
+            Como pode ser ? <br />
+            Como aconteceu ? <br />
+            Como entender ? <br /><br />
 
-              Ali na cruz em que morreu <br />
-              De Deus o plano se cumpriu<br />
-              O meu pecado carregou<br />
-              Por sua morte vivo estou.<br /><br />
+            São tantas gerações que vão e vem <br />
+            Mas permanece a Terra para sempre <br />
+            O espírito retornará a Deus <br />
+            Tão vazio, tudo em vão ! <br /><br />
 
-              Seu corpo inerte ali no chão <br />
-              É luz em meio a escuridão <br />
-              Da sepultura levantou<br />
-              Glorioso dia se tornou.<br /><br />
+            Amar a Deus, razão de viver <br />
+            Amar a Deus, razão maior <br />
+            Nada mais me satisfaz <br />
+            Esperançar vida traz <br />
+            Tão presente e tão real <br /><br />
 
-              Quando em Vitória ressurgiu <br />
-              Os pecadores redimiu<br />
-              Agora é meu e dEle sou<br />
-              Pois com seu sangue me comprou.<br /><br />
+            Amar a Deus, Amar a Deus <br />
+            Nada mais me satisfaz <br />
+            Esperançar vida traz <br />
+            Tão presente e tão real <br />
 
-              A minha fé é o meu amor <br />
-              Estão firmados no Senhor <br />
-              Estão firmados no Senhor.<br /><br />
-
-              A minha fé é o meu amor<br />
-              Estão firmados no Senhor <br />
-              Estão firmados no Senhor<br /><br />
-
-              A morte eu não vou temer <br />
-              Pois tenho o seu poder<br />
-              Desde o nascer até o morrer<br />
-              Cristo comanda o meu viver.<br /><br />
-
-              O inferno não conseguirá<br />
-              De Suas mãos me arrancar <br />
-              Até voltar ou me chamar<br />
-              Em seu poder me manterei.<br /><br />
-
-              Este é o meu respirar <br />
-              Este é o meu respirar<br />
-              Teu Santo Espírito <br />
-              Vive em mim.<br /><br />
-
-              E este é o meu Pão <br />
-              E este é o meu Pão <br />
-              Tua vontade <br />
-              Feita em mim. <br /><br />
-
-              E eu, eu nada sou sem Ti<br />
-              E eu, perdido estou sem Ti.<br /><br />
-
-              E eu, eu nada sou sem Ti<br />
-              E eu, perdido estou sem Ti<br /><br />
-              Jesus!
+            Amar a Deus, amar a Deus <br /><br />
+            Amar a Deus!!!
             </p>
           </div>
         </div>

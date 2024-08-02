@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function emJesus() {
+export default function Jesusmeu() {
   return (
     <main>
       <div className="relative z-[-1] pt-64 -mb-64 sticky top-0 content-center object-contain fixed before:absolute before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-72 after:w-72 after:translate-x-1/3 after:bg-gradient-conic after:from-green-200 after:via-green-600 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-green-400 before:dark:opacity-10 after:dark:from-green-700 after:dark:via-[#88B25F] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]"></div>
@@ -47,70 +47,66 @@ export default function emJesus() {
         <div className="flex min-h-screen flex-col items-center pb-40 pt-28 lg:py-40 overflow-hidden">
           <div className="text-center flex place-items-center">
             <p>
-              Só em Jesus posso esperar <br />
-              É minha força é minha luz <br />
-              Ele é a pedra angular <br />
-              Que nada pode abalar <br /><br />
+              Jesus meu guia é <br />
+              Amigo e protetor, Ele é <br />
+              O meu bom pastor <br />
+              E quando eu sentir temor <br />
+              Nele confiarei <br /><br />
 
-              Que imenso amor profunda paz <br />
-              Quando a batalha terminar <br />
-              Jesus é tudo para mim<br />
-              Dá-me abrigo até o fim.<br /><br />
+              Jesus meu guia é (Nele confiarei) <br />
+              amigo e protetor, Ele é (Nele confiarei) <br />
+              o meu bom pastor (Fraco sou mas Deus me dá) <br />
+              e quando eu sentir temor (Seu poder seu amor) <br />
+              Nele confiarei <br /><br />
 
-              Em carne o Verbo se tornou<br />
-              Deus encarnado num bebê <br />
-              É dom de amor e retidão <br />
-              Salvou a quem o desprezou<br /><br />
+              Jesus meu guia é (Nele confiarei) <br />
+              amigo e protetor, Ele é (Nele confiarei) <br />
+              o meu bom pastor (Fraco sou mas Deus me dá) <br />
+              e quando eu sentir temor (Seu poder seu amor) <br /><br />
 
-              Ali na cruz em que morreu <br />
-              De Deus o plano se cumpriu<br />
-              O meu pecado carregou<br />
-              Por sua morte vivo estou.<br /><br />
+              Nele confiarei <br />
+              Nele confiarei <br />
+              Nele confiarei <br /><br />
 
-              Seu corpo inerte ali no chão <br />
-              É luz em meio a escuridão <br />
-              Da sepultura levantou<br />
-              Glorioso dia se tornou.<br /><br />
+              Deus Me dá, seu poder <br />
+              Seu amor <br /><br />
 
-              Quando em Vitória ressurgiu <br />
-              Os pecadores redimiu<br />
-              Agora é meu e dEle sou<br />
-              Pois com seu sangue me comprou.<br /><br />
+              Nele confiarei <br />
+              Nele confiarei <br />
+              Nele confiarei <br /><br />
 
-              A minha fé é o meu amor <br />
-              Estão firmados no Senhor <br />
-              Estão firmados no Senhor.<br /><br />
+              Deus Me dá, seu poder <br />
+              Seu amor <br /><br />
 
-              A minha fé é o meu amor<br />
-              Estão firmados no Senhor <br />
-              Estão firmados no Senhor<br /><br />
+              Jesus meu guia é <br />
+              Amigo e protetor, Ele é <br />
+              O meu bom pastor <br />
+              E quando eu sentir temor <br />
+              Nele confiarei <br /><br />
 
-              A morte eu não vou temer <br />
-              Pois tenho o seu poder<br />
-              Desde o nascer até o morrer<br />
-              Cristo comanda o meu viver.<br /><br />
+              Jesus meu guia é (Nele confiarei) <br />
+              amigo e protetor, Ele é (Nele confiarei) <br />
+              o meu bom pastor (Fraco sou mas Deus me dá) <br />
+              e quando eu sentir temor (Seu poder seu amor) <br /><br />
 
-              O inferno não conseguirá<br />
-              De Suas mãos me arrancar <br />
-              Até voltar ou me chamar<br />
-              Em seu poder me manterei.<br /><br />
+              Nele confiarei <br />
+              Nele confiarei <br />
+              Nele confiarei <br /><br />
 
-              Este é o meu respirar <br />
-              Este é o meu respirar<br />
-              Teu Santo Espírito <br />
-              Vive em mim.<br /><br />
+              Deus Me dá, seu poder <br />
+              Seu amor <br /><br />
 
-              E este é o meu Pão <br />
-              E este é o meu Pão <br />
-              Tua vontade <br />
-              Feita em mim. <br /><br />
+              Nele confiarei <br />
+              Nele confiarei <br />
+              Nele confiarei <br /><br />
 
-              E eu, eu nada sou sem Ti<br />
-              E eu, perdido estou sem Ti.<br /><br />
+              Deus Me dá, seu poder <br />
+              Seu amor <br /><br />
 
-              E eu, eu nada sou sem Ti<br />
-              E eu, perdido estou sem Ti<br /><br />
-              Jesus!
+              Jesus, meu guia é <br />
+              amigo e protetor <br />
+              ele é o meu bom pastor <br />
+              e quando eu sentir temor
             </p>
           </div>
         </div>
