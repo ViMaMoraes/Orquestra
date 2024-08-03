@@ -11,17 +11,17 @@ export default function Home() {
           </p>
           <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
             <a
-              className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-              href="/letras"
+              className="font-semibold flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
+              href="https://www.instagram.com/ieadijardimdasnacoes/"
               rel="noopener noreferrer"
             >
-              By{" "}
+              @ieadijardimdasnacoes{" "}
               <Image
-                src="/vercel.svg"
+                src="/Instagram.svg"
                 alt="Vercel Logo"
-                className="dark:invert"
-                width={100}
-                height={24}
+                className=""
+                width={30}
+                height={10}
                 priority
               />
             </a>
@@ -29,14 +29,12 @@ export default function Home() {
         </div>
 
         <div>
-          <Image
-            className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
-            priority
-          />
+          <h2 className="text-center text-2xl font-semibold">
+            DEUS REVELA SUA GLÓRIA ATRAVÉS DO LOUVOR
+          </h2><br />
+          <h5 className="text-center font-semibold mb-16">
+            2º CRO 5:13-14
+          </h5>
         </div>
 
         <div className="mb-324 grid text-center pb-48 lg:mb-24 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
